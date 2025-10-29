@@ -1,0 +1,9 @@
+server:
+  port: 9002  # 服务器端口配置
+spring:
+  ai:
+    mcp:
+      server:
+        name: zq-red95-mcp-sse
+        version: 0.0.1
+        type: SYNC
