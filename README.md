@@ -7,7 +7,7 @@
 ![黑客松大赛](img/img_1.png)
 
 🎥 演示视频  
-https://www.bilibili.com/video/BV1nWyoBuE6p/
+https://www.bilibili.com/video/BV1BUydBAEVi/
 
 # 📋 环境要求
 git、dotnet6.0、JDK17+
