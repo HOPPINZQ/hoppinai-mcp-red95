@@ -6,6 +6,9 @@
 
 ![黑客松大赛](img/img_1.png)
 
+🎥 演示视频  
+https://www.bilibili.com/video/BV1nWyoBuE6p/
+
 # 📋 环境要求
 git、dotnet6.0、JDK17+
 
@@ -70,5 +73,3 @@ public class CmdTools {
     - 如果还未完成，再决定是否调用下一个工具。
     - 绝不能连续重复调用同一个工具。
 ```
-
-🎥 演示请参考相关视频
